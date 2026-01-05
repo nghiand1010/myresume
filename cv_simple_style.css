@@ -1,0 +1,153 @@
+@page {
+  margin: 0.6in;
+  size: A4;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Calibri', 'Segoe UI', Arial, sans-serif;
+  line-height: 1.5;
+  color: #000000;
+  font-size: 10.5pt;
+}
+
+/* Header Section */
+h1 {
+  color: #000000;
+  font-size: 28pt;
+  font-weight: bold;
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+h1 + p strong {
+  font-size: 13pt;
+  color: #000000;
+  display: block;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+/* Contact info line */
+body > p:first-of-type {
+  text-align: center;
+  font-size: 9pt;
+  color: #333333;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #000000;
+  padding-bottom: 12px;
+}
+
+/* Section Headers */
+h2 {
+  color: #000000;
+  font-size: 12pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 18px;
+  margin-bottom: 10px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid #000000;
+  letter-spacing: 0.5px;
+}
+
+/* Subsection headers (job titles) */
+h3 {
+  color: #000000;
+  font-size: 11pt;
+  font-weight: bold;
+  margin-top: 12px;
+  margin-bottom: 6px;
+}
+
+h3 strong {
+  color: #000000;
+  font-weight: bold;
+}
+
+/* Paragraphs */
+p {
+  margin: 6px 0;
+  text-align: justify;
+}
+
+/* Lists */
+ul {
+  margin: 8px 0 12px 20px;
+  padding: 0;
+}
+
+li {
+  margin: 4px 0;
+  line-height: 1.4;
+  list-style-type: disc;
+}
+
+/* Tech stack styling */
+p strong {
+  color: #000000;
+  font-weight: 600;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid #666666;
+  margin: 14px 0;
+}
+
+/* Education section */
+h2 + p strong {
+  color: #000000;
+  font-size: 10.5pt;
+}
+
+/* Objective section */
+h2:first-of-type + p {
+  font-size: 10.5pt;
+  line-height: 1.6;
+  text-align: justify;
+  margin-bottom: 12px;
+}
+
+/* Links */
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+/* Compact spacing for work experience */
+h3 + p {
+  margin-bottom: 6px;
+}
+
+ul + p {
+  margin-top: 10px;
+}
+
+/* Footer quote */
+body > p:last-child {
+  text-align: center;
+  font-style: italic;
+  color: #666666;
+  margin-top: 20px;
+  font-size: 9.5pt;
+  border-top: 1px solid #cccccc;
+  padding-top: 12px;
+}
+
+/* Reduce overall spacing */
+h2 + h3 {
+  margin-top: 8px;
+}
+
+/* Open source section */
+h2:contains("OPEN SOURCE") + p strong {
+  color: #000000;
+  font-size: 10.5pt;
+}

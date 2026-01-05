@@ -67,8 +67,8 @@ Strategic Engineering Leader with **10+ years of experience** driving enterprise
 * **Bachelor in Applied Mathematics & Informatics** – Hanoi University of Science and Technology (2007 - 2012)
 
 #### Professional Certifications
-* **Machine Learning Expert** – 2024
-* **System Design Expert** – 2023
+* **MLExpert (Machine Learning)** – AlgoExpert – 2024
+* **SystemsExpert (System Design)** – AlgoExpert – 2023
 * **Next-Gen CTO Program** – 2023
 
 #### Honors & Recognition
