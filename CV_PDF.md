@@ -1,61 +1,89 @@
 # NGUYEN DINH NGHIA
-**Engineering Manager | Senior Software Architect**
 
-**Phone:** (+84) 969 228 100  
-**Email:** nghiand1010@gmail.com  
-**LinkedIn:** linkedin.com/in/nghiand  
-**GitHub:** github.com/nghiand1010  
-**Location:** Hanoi, Vietnam
+<div style="text-align: center; font-size: 10pt; line-height: 1.8;">
+📞 (+84) 969 228 100 | ✉ nghiand1010@gmail.com | 🔗 linkedin.com/in/nghiand | 📍 Hanoi, Vietnam
+</div>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## BRIEF INTRODUCTION
 
-Strategic Engineering Leader with 10+ years of experience driving enterprise-scale software development and data platform architecture (ERP, CRM, CDP). Expert in modernizing legacy architectures into Event-Driven and Microservices models. Proven track record in building Data Lakehouses managing 20TB+ of data and optimizing high-concurrency systems serving millions of users.
-
----
-
-## TECHNICAL EXPERTISE
-
-**Architecture & Design**  
-Microservices, Event-Driven Architecture (EDA), System Design (C4 Model), API Gateway, Multi-tenancy, Master Data Management (MDM)
-
-**Data Engineering**  
-Data Lakehouse (Hadoop, Spark, Hudi, Presto), ETL Pipelines for 50+ sources, CDC, ClickHouse
-
-**Backend Development**  
-.NET Core/C#, Python, SQL, Java, C++
-
-**Databases**  
-SQL Server (Expert in Performance Tuning), PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
-
-**DevOps & Observability**  
-Docker, Kubernetes (K8s), Kafka, RabbitMQ, Airflow, Prometheus, Grafana
+Engineering Manager with 10+ years of experience building scalable ERP, CRM, and Data platforms serving millions of users. Expert in Data Engineering (20TB+ lakehouse), System Architecture, and leading cross-functional teams to deliver high-impact business solutions.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## SKILLS
+
+**Languages:** Vietnamese, English
+
+**Architecture & Design:** Microservices, Event-Driven Architecture (EDA), System Design (C4 Model), API Gateway, Multi-tenancy, Master Data Management (MDM)
+
+**Data Engineering:** Data Lakehouse (Hadoop, Spark, Hudi, Presto), ETL Pipelines, CDC, ClickHouse
+
+**Backend Development:** .NET Core/C#, Python, SQL, JavaScript
+
+**Databases:** SQL Server (Expert in Performance Tuning), PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+
+**DevOps & Observability:** Docker, Kubernetes, Kafka, RabbitMQ, Airflow, Prometheus, Grafana, OpenTelemetry
+
+---
+
+## WORK EXPERIENCE
 
 ### Engineering Manager (Data Team) | MISA JSC
 **Jun 2023 – Present**
+
+**Outline:**
+
+Managed a team of 8+ engineers responsible for data infrastructure and analytics driving strategic decisions company-wide.
+
+**Key Responsibilities:**
 
 - Designed and implemented a Data Lakehouse architecture (Hadoop, Hudi, Presto) managing over 20TB of raw data
 - Leveraged ClickHouse to reduce complex report generation time by 80%
 - Architected robust ETL pipelines for automated data ingestion from 50+ disparate sources
 - Deployed AI/ML predictive models for churn risk and customer potential ranking for 2M+ enterprise clients
 - Led data team to deliver business intelligence solutions for enterprise decision-making
+- Administered and monitored the performance and availability of all company databases
+
+**Technology:** Python, C#/.NET Core, Hadoop, Spark, Hudi, Presto, ClickHouse, Kafka, PostgreSQL, Kubernetes, Airflow
+
+**Key Achievements:**
+- Reduced query time by 80% using ClickHouse optimization
+- Integrated 50+ data sources into unified platform serving 2M+ enterprise clients
+- Enabled data-driven decision-making for C-level executives through automated dashboards
 
 ### Principal Solution Architect / Database Expert | MISA JSC
 **Jan 2020 – May 2023**
 
+**Outline:**
+
+Built company-wide architecture standards and mentored database experts across all product lines.
+
+**Key Responsibilities:**
+
 - Re-architected the E-invoice application to handle a scale of 1,000,000 invoices per day
+- Led the architecture and development of a comprehensive ERP system serving 100,000+ enterprise clients
 - Successfully improved HRM report performance from 10 seconds to less than 1 second
 - Authored company-wide guidelines for database architecture, implementation, and administration
 - Provided technical leadership across multiple product lines
 - Mentored development teams on best practices for high-performance database design
 
+**Technology:** C#/.NET Core, Python, SQL Server, PostgreSQL, MongoDB, Kafka, Kubernetes, Redis, Elasticsearch
+
+**Key Achievements:**
+- Scaled e-invoicing system from 100K to 1M invoices/day (10x improvement)
+- Optimized HRM reports from 10s to <1s response time
+- Established database standards adopted across 40+ applications
+
 ### Project Manager / Tech Lead | MISA JSC
 **Oct 2018 – Dec 2021**
+
+**Outline:**
+
+Led 50+ member team delivering flagship ERP/CRM platform serving 100K+ enterprise customers and 2,000+ sales staff.
+
+**Key Responsibilities:**
 
 - Managed a flagship ERP platform integrating 40+ applications for 100K+ enterprise customers
 - Led a cross-functional team of 50+ members to deliver a scalable CRM supporting 2,000+ sales staff
@@ -63,40 +91,47 @@ Docker, Kubernetes (K8s), Kafka, RabbitMQ, Airflow, Prometheus, Grafana
 - Coordinated with stakeholders to align technical solutions with business objectives
 - Delivered multiple high-impact projects on time and within budget
 
+**Technology:** C#/.NET Core, MySQL, Kafka, RabbitMQ, Elasticsearch, Kubernetes, Angular
+
+**Key Achievements:**
+- Delivered flagship CRM serving 2,000+ sales staff with zero data loss during migration
+- Became company's most successful product, managing 2M+ customer records
+
 ### Software Developer | FPT SOFTWARE
 **Jun 2012 – Jan 2017**
 
-- Developed mission-critical systems for major Japanese utility companies (65,000+ organizations)
-- Specialized in SQL Server performance tuning and complex Exchange Server integrations
-- Collaborated with international teams to deliver enterprise-grade solutions
-- Maintained and enhanced existing enterprise applications with high availability requirements
+**Outline:**
 
----
+Developed mission-critical systems for Japanese utility companies (65,000+ organizations).
 
-## OPEN SOURCE CONTRIBUTIONS
+**Key Responsibilities:**
 
-**Dapper.Contrib.Bulk**  
-High-performance library for SQL Server Bulk operations in .NET  
-GitHub: github.com/nghiand1010/Dapper.Contrib.Bulk
+- Developed mission-critical systems for major Japanese utility companies
+- Built an Outlook add-in and designed a relational database to manage complex contact data
+- Developed Email Management System with role-based access control and Exchange Server integration
+- Specialized in SQL Server performance tuning and complex problems like authentication and email filter rules
+- Collaborated with Japanese clients to deliver software specifications and system designs
 
-**Rendezvous Hashing**  
-Implementation of Highest Random Weight (HRW) hashing algorithm for distributed systems  
-GitHub: github.com/nghiand1010/rendezvous-hashing
+**Technology:** C#, .NET Framework, SQL Server, Windows Forms, WPF, Exchange Server, Web Forms
+
+**Key Achievements:**
+- Delivered enterprise systems with 99.9% uptime for 65,000+ organizations
 
 ---
 
 ## EDUCATION
 
-**Bachelor in Applied Mathematics & Informatics**  
-Hanoi University of Science and Technology | 2007 - 2012
+**Hanoi University of Science and Technology** | Oct 2007 - May 2012  
+*Major: Applied Mathematics and Informatics*
 
 ---
 
 ## CERTIFICATIONS
 
-- Machine Learning Expert – 2024
-- System Design Expert – 2023
-- Next-Gen CTO Program – 2023
+- **MLExpert (Machine Learning)** – AlgoExpert – 2024
+- **SystemsExpert (System Design)** – AlgoExpert – 2023
+- **Next-Gen CTO Program** – 2023
+- **Fundamentals of Engineering Certification** – IPA Japan – 2013
 
 ---
 
@@ -109,13 +144,6 @@ Awarded for outstanding technical contributions to the developer community
 
 ## LEADERSHIP & SOFT SKILLS
 
-- **Team Leadership:** Successfully managed cross-functional teams of 50+ members across multiple product lines
-- **Strategic Planning:** Proven track record in roadmap planning and execution for enterprise-scale systems
-- **Stakeholder Management:** Expert in aligning technical solutions with business objectives for C-level executives
-- **Mentorship:** Actively mentoring junior developers and architects in system design and data engineering
-- **Problem Solving:** Strong analytical skills with a mathematician's approach to complex technical challenges
-- **Communication:** Effective technical communication across engineering, product, and business teams
-
----
-
-*Building scalable systems with a mathematician's mindset.*
+- Managed cross-functional teams of 50+ members across multiple product lines
+- Expert in stakeholder management and aligning technical solutions with business objectives for C-level executives
+- Active mentor for junior developers and architects in system design and data engineering

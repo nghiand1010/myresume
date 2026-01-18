@@ -1,105 +1,125 @@
-# Nghia Nguyen Dinh
+**Nghia Nguyen Dinh**  
+Hanoi, Vietnam
 
-**Engineering Manager**
-
-📞 0969228100 | ✉ nghiand1010@gmail.com | 🔗 linkedin.com/in/nghiand | 💻 github.com/nghiand1010 | 📝 viblo.asia/u/nghiand1010 | 📍 Hanoi, Vietnam
-
----
-
-## OBJECTIVE
-
-Engineering leader with 10+ years of experience driving enterprise-scale software development and data platform architecture (ERP, CRM, CDP). Proven success in building and scaling cross-functional teams, delivering mission-critical systems, and enabling data-driven decision-making at scale.
+📞 0969228100 | ✉ nghiand1010@gmail.com | 🔗 linkedin.com/in/nghiand | 📝 viblo.asia/u/nghiand1010
 
 ---
 
-## EDUCATION
+# BRIEF INTRODUCTION
 
-**Hanoi University of Science and Technology** | 2007 - 2012  
-*Bachelor of Applied Mathematics and Informatics*
-
-Core Coursework: Data Structures & Algorithms, Operating Systems, Networking, Computer Architecture, Programming Languages, Mathematics
+Engineering Manager with 10+ years of experience building scalable ERP, CRM, and Data platforms serving millions of users. Expert in Data Engineering (20TB+ lakehouse), System Architecture, and leading cross-functional teams to deliver high-impact business solutions.
 
 ---
 
-## WORK EXPERIENCE
+# EDUCATION
 
-### MISA JSC | **Engineering Manager** | 2023 - Present
+**Hanoi University of Science and Technology** | Oct 2007 - May 2012  
+*Major: Applied Mathematics and Informatics*
 
-Managed the Data Team responsible for large-scale data infrastructure and advanced analytics to drive strategic decisions across the company:
+---
 
-- Designed and operated ETL pipelines for 50+ systems, integrating high-volume data from diverse internal and external sources
-- Built a data lakehouse managing 20TB+ of data to unify and model customer data, creating detailed profiles for over 2 million enterprise clients
-- Analyzed user behavior and deployed AI/ML models to identify high-potential customers and forecast churn risk across billions of records annually
-- Architected and implemented Event-Driven Architecture (EDA) with distributed tracing using OpenTelemetry to improve system observability and performance monitoring
-- Delivered real-time and periodic reports to the executive board and company-wide stakeholders, covering subscriber trends, product engagement, and churn metrics
-- Developed and automated financial and operational dashboards, including revenue, aging debt, and business performance KPIs
+# SKILLS
 
-**Tech stack:** SQL Server, MySQL, PostgreSQL, MongoDB, ClickHouse, Elasticsearch, Data Pipelines, CDC, Docker, Lakehouse Architecture (Hadoop, Spark, Hudi, Presto), Kafka, RabbitMQ, Event-Driven Architecture, OpenTelemetry, Distributed Tracing
+**Languages:** Vietnamese, English
 
-### MISA JSC | **Principal Solution Architect / Database Expert** | 2020 - 2023
+**Technical:** C#/.NET Core, Python, SQL, JavaScript | SQL Server, PostgreSQL, MySQL, MongoDB, ClickHouse, Redis, Elasticsearch | Hadoop, Spark, Hudi, Presto | Kafka, RabbitMQ, Docker, Kubernetes | Microservices, Event-Driven Architecture, Data Lakehouse
 
-- Designed and developed a high-performance e-invoicing system capable of processing over 1 million invoices daily, leveraging C4 model, .NET Core, Kafka, MySQL, and MongoDB
-- Led the architecture and development of a comprehensive ERP system serving 100,000+ enterprise clients, including complex modules such as Accounting, HRM, CRM, and Business Process Management
-- Diagnosed and resolved critical performance issues across multiple enterprise applications, resulting in increased system stability and performance improvements ranging from 5x to 100x
-- Actively contributed to drafting and standardizing company-wide procedures, design guidelines, and operational regulations for database architecture, implementation, and administration
+---
 
-**Tech stack:** .NET Core, Kafka, SQL Server, MongoDB, MySQL, Redis, Elasticsearch, Docker, Kubernetes
+# WORK EXPERIENCE
 
-### MISA JSC | **Project Manager / Tech Lead** | 2018 - 2021
+**MISA JSC** | Jun 2023 - Present  
+*Engineering Manager*
 
-- Managed and led a cross-functional team of 50+ members (Developers, Business Analysts, Software Architects, and QA Engineers) to deliver the company's flagship CRM system
-- Developed a scalable CRM platform serving millions of enterprise customers, supporting the daily operations of over 2,000 sales staff and executive management
-- Directed complex data migration from legacy system to new platform, successfully migrating 2+ million records while ensuring data accuracy and zero business disruption
-- Delivered a mission-critical solution that centralized customer data, streamlined sales workflows, and enabled real-time reporting for strategic decision-making
+**Outline:**
 
-**Tech stack:** .NET Core, Kafka, SQL Server, Redis, Elasticsearch, Angular, Docker, Kubernetes
+Managed a team of 8+ engineers responsible for data infrastructure and analytics driving strategic decisions company-wide.
 
-### FPT Software | **Software Developer** | 2012 - 2017
+**Key Responsibilities:**
 
-- Developed enterprise applications for major Japanese utility companies serving 65,000+ organizations
+- Designed and implemented a Data Lakehouse architecture (Hadoop, Hudi, Presto) managing over 20TB of raw data
+- Optimized queries and storage on ClickHouse, reducing report generation time by 80%
+- Built predictive models to identify churn risks and rank customers by potential value for 2M+ enterprise clients
+- Developed robust ETL pipelines for ingesting and transforming data from 50+ disparate sources
+- Architected Event-Driven Architecture (EDA) with distributed tracing using OpenTelemetry to improve system observability
+- Delivered real-time and periodic reports to the executive board covering subscriber trends, product engagement, and churn metrics
+- Administered and monitored the performance and availability of all company databases
+
+**Technology:** Python, C#/.NET Core, Hadoop, Spark, Hudi, Presto, ClickHouse, Kafka, PostgreSQL, Kubernetes, Airflow
+
+**Key Achievements:**
+- Reduced query time by 80% using ClickHouse optimization
+- Integrated 50+ data sources into unified platform serving 2M+ enterprise clients
+- Enabled data-driven decision-making for C-level executives through automated dashboards
+
+**MISA JSC** | Jan 2020 - May 2023  
+*Principal Solution Architect, Principal Database Expert*
+
+**Outline:**
+
+Built company-wide architecture standards and mentored database experts across all product lines.
+
+**Key Responsibilities:**
+
+- Designed and developed a high-performance e-invoicing system capable of processing over 1 million invoices daily
+- Led the architecture and development of a comprehensive ERP system serving 100,000+ enterprise clients, including Accounting, HRM, CRM, and Business Process Management modules
+- Diagnosed and resolved critical performance issues across multiple enterprise applications, achieving 5x to 100x improvements
+- Designed database structures and software systems to support core business operations
+- Developed Master Data Management (MDM) modules and optimized performance for invoice and HRM products
+- Authored company-wide guidelines for database architecture, implementation, and administration
+
+**Technology:** C#/.NET Core, Python, SQL Server, PostgreSQL, MongoDB, Kafka, Kubernetes, Redis, Elasticsearch
+
+**Key Achievements:**
+- Scaled e-invoicing system from 100K to 1M invoices/day (10x improvement)
+- Optimized HRM reports from 10s to <1s response time
+- Established database standards adopted across 40+ applications
+
+**MISA JSC** | Oct 2018 - Dec 2021  
+*Project Manager, Tech Lead*
+
+**Outline:**
+
+Led 50+ member team delivering flagship ERP/CRM platform serving 100K+ enterprise customers and 2,000+ sales staff.
+
+**Key Responsibilities:**
+
+- Managed and led a cross-functional team of 50+ members (Developers, Business Analysts, Architects, QA Engineers)
+- Led the design and development of a large-scale ERP system integrating 40+ internal applications
+- Developed a scalable CRM platform serving millions of enterprise customers, supporting 2,000+ sales staff
+- Directed complex data migration from legacy system, successfully migrating 2+ million records with zero data loss
+- Optimized system performance for business-critical modules (HRM, invoicing, CRM)
+- Managed project scope, timelines, and delivery across cross-functional teams
+
+**Technology:** C#/.NET Core, MySQL, Kafka, RabbitMQ, Elasticsearch, Kubernetes, Angular
+
+**Key Achievements:**
+- Delivered flagship CRM serving 2,000+ sales staff with zero data loss during migration
+- Became company's most successful product, managing 2M+ customer records
+
+**FPT Software** | Jun 2012 - Dec 2016  
+*Developer*
+
+**Outline:**
+
+Developed mission-critical systems for Japanese utility companies (65,000+ organizations).
+
+**Key Responsibilities:**
+
+- Developed mission-critical systems for major Japanese utility companies
 - Built an Outlook add-in and designed a relational database to manage complex contact data
 - Developed Email Management System with role-based access control, Exchange Server integration, and custom filtering logic
+- Specialized in SQL Server performance tuning and complex problems like authentication and email filter rules
 - Collaborated with Japanese clients to deliver software specifications and system designs
 
-**Tech stack:** C#, .NET Framework, SQL Server, Windows Forms, WPF, Exchange Server, Web Forms
+**Technology:** C#, .NET Framework, SQL Server, Windows Forms, WPF, Exchange Server, Web Forms
+
+**Key Achievements:**
+- Delivered enterprise systems with 99.9% uptime for 65,000+ organizations
 
 ---
 
-## OPEN SOURCE CONTRIBUTIONS
-
-**Dapper.Contrib.Bulk** | github.com/nghiand1010/Dapper.Contrib.Bulk  
-High-performance library for SQL Server Bulk operations in .NET
-
-**Rendezvous Hashing** | github.com/nghiand1010/rendezvous-hashing  
-Implementation of Highest Random Weight (HRW) hashing algorithm for distributed systems
-
----
-
-## TECHNICAL SKILLS
-
-**Programming Languages:** C#, Python, Java, SQL, JavaScript
-
-**Architecture & Design:** Microservices, Event-Driven Architecture (EDA), System Design (C4 Model), API Gateway, Multi-tenancy, Master Data Management (MDM)
-
-**Data Engineering:** Data Lakehouse (Hadoop, Spark, Hudi, Presto), ETL Pipelines, CDC, ClickHouse
-
-**Databases:** SQL Server (Performance Tuning Expert), PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
-
-**DevOps & Monitoring:** Docker, Kubernetes, Kafka, RabbitMQ, Airflow, Prometheus, Grafana, Jenkins, OpenTelemetry, Distributed Tracing
-
----
-
-## LEADERSHIP & SOFT SKILLS
-
-- Team Leadership: Successfully managed cross-functional teams of 50+ members across multiple product lines
-- Strategic Planning: Proven track record in roadmap planning and execution for enterprise-scale systems
-- Stakeholder Management: Expert in aligning technical solutions with business objectives for C-level executives
-- Mentorship: Actively mentoring junior developers and architects in system design and data engineering
-- Problem Solving: Strong analytical skills with a mathematician's approach to complex technical challenges
-
----
-
-## CERTIFICATIONS
+# CERTIFICATIONS
 
 - **MLExpert (Machine Learning)** – AlgoExpert – 2024
 - **SystemsExpert (System Design)** – AlgoExpert – 2023
@@ -108,9 +128,18 @@ Implementation of Highest Random Weight (HRW) hashing algorithm for distributed 
 
 ---
 
-## HONORS & AWARDS
+# HONORS & RECOGNITION
 
-- **Editor's Choice – Viblo** (January 2023) – Awarded for outstanding technical contributions to the developer community
+**Editor's Choice – Viblo** (January 2023)  
+Awarded for outstanding technical contributions to the developer community
+
+---
+
+# LEADERSHIP & SOFT SKILLS
+
+- Managed cross-functional teams of 50+ members across multiple product lines
+- Expert in stakeholder management and aligning technical solutions with business objectives for C-level executives
+- Active mentor for junior developers and architects in system design and data engineering
 
 ---
 
